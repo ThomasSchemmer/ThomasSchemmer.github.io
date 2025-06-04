@@ -5,7 +5,7 @@ fetch("repos.json")
     data.forEach(function (repo) {
       output += `<!--repo card started--><div class="col-sm-4 mb-40"><div class="mdl-card mdl-shadow--2dp pa-0 repo-card"><div class="mdl-card__title pa-0"><img class="blog-img"loading="lazy"src="${
         repo.banner
-      }"></div><div class="mdl-card__supporting-text relative"><span class="blog-cat"style="${
+      }" width="auto" height="150"></div><div class="mdl-card__supporting-text relative"><span class="blog-cat"style="${
         repo.lang ? "" : "display: none"
       };"><span class="lang"style="background-color: ${
         repo.color
