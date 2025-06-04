@@ -36,6 +36,15 @@
         "generatedOn": "2025-06-04 16:27:51.003302"
     },
     {
+        "name": "Police Simulator: Patrol Officers",
+        "url": "https://store.steampowered.com/app/997010/Police_Simulator_Patrol_Officers/",
+        "description": "Join the police force of this fictitious American city",
+        "banner": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/997010/header.jpg?t=1747826092",
+        "color": "#178600",
+        "lang": "C++",
+        "date": "2021-02-03T13:44:47Z",
+    },
+    {
         "name": "SDF",
         "url": "https://github.com/ThomasSchemmer/SDF",
         "description": "Experiments with SDFs",
